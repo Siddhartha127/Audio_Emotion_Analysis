@@ -10,8 +10,6 @@ This repository contains a deep learning model for **Audio Emotion Analysis** th
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -60,3 +58,9 @@ The model achieved the following performance on the validation set:
 - Train Loss0: 0.0327
 - Test Accuracy: 0.9866071343421936
 - Test Loss: 0.03881167620420456
+
+  ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
