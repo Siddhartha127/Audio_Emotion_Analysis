@@ -1,4 +1,4 @@
-# Audio_Emotion_Analysis
+# Speech Emotion Recognition using Deep Learning
 Analysing and detection emotions in an audio file using Deep Learning Methods 
 This repository contains a deep learning model for **Audio Emotion Analysis** that classifies audio samples into one of six emotion classes: **angry, sad, fear, happy, neutral, and disgust**. The model leverages **MFCC (Mel-frequency cepstral coefficients)** for feature extraction and a **Bi-directional LSTM** network for sequence modeling.
 
